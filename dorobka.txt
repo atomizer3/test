@@ -1,1 +1,3 @@
 x
+zmiana1
+zmniana2
